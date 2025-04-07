@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "taller-citas",
-    "slug": "taller-citas",
+    "name": "platillos-app",
+    "slug": "platillos-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
